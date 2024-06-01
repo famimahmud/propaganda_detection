@@ -1,0 +1,38 @@
+{
+  "checkpoint": "microsoft/deberta-v3-large",
+  "model_nodes": {
+    "persuasion_or_not": "model-microsoft_deberta-v3-large-persuasion_or_not-memes_0.5threshold_5e-06learningRate:v8",
+    "persuasion": "model-microsoft_deberta-v3-large-persuasion-memes_0.4threshold_5e-06learningRate:v7",
+    "ethos": "model-microsoft_deberta-v3-large-ethos-memes_0.4threshold_5e-06learningRate:v7",
+    "pathos": "model-microsoft_deberta-v3-large-pathos-memes_0.4threshold_5e-06learningRate:v3",
+    "logos": "model-microsoft_deberta-v3-large-logos-memes_0.4threshold_5e-06learningRate:v5",
+    "ad_hominem": "model-microsoft_deberta-v3-large-ad_hominem-memes_0.4threshold_5e-06learningRate:v3",
+    "justification": "model-microsoft_deberta-v3-large-justification-memes_0.4threshold_5e-06learningRate:v3",
+    "reasoning": "model-microsoft_deberta-v3-large-reasoning-memes_0.4threshold_5e-06learningRate:v3",
+    "simplification": "model-microsoft_deberta-v3-large-simplification-memes_0.4threshold_5e-06learningRate:v3",
+    "distraction": "model-microsoft_deberta-v3-large-distraction-memes_0.4threshold_5e-06learningRate:v3"
+  },
+  "threshold_nodes": {
+    "persuasion_or_not": 0.5,
+    "persuasion": 0.4,
+    "ethos": 0.4,
+    "pathos": 0.4,
+    "logos": 0.4,
+    "ad_hominem": 0.4,
+    "justification": 0.4,
+    "reasoning": 0.4,
+    "simplification": 0.4,
+    "distraction": 0.4
+  },
+  "transfer_learning": true,
+  "train_files": {
+    "train": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/train.json",
+    "validation": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/validation.json"
+  },
+  "top_k": 10,
+  "Validation score": {
+    "f1_hierarchical": 0.2496,
+    "precision_hierarchical": 0.89791,
+    "recall_hierarchical": 0.14494
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "checkpoint": "vinai/bertweet-large",
+  "model_nodes": {
+    "persuasion_or_not": "model-vinai_bertweet-large-persuasion_or_not-memes_0.5threshold_5e-06learningRate:v6",
+    "persuasion": "model-vinai_bertweet-large-persuasion-memes_0.4threshold_5e-06learningRate:v0",
+    "ethos": "model-vinai_bertweet-large-ethos-memes_0.4threshold_5e-06learningRate:v5",
+    "pathos": "model-vinai_bertweet-large-pathos-memes_0.4threshold_5e-06learningRate:v5",
+    "logos": "model-vinai_bertweet-large-logos-memes_0.4threshold_5e-06learningRate:v0",
+    "ad_hominem": "model-vinai_bertweet-large-ad_hominem-memes_0.4threshold_5e-06learningRate:v0",
+    "justification": "model-vinai_bertweet-large-justification-memes_0.4threshold_5e-06learningRate:v5",
+    "reasoning": "model-vinai_bertweet-large-reasoning-memes_0.4threshold_5e-06learningRate:v0",
+    "simplification": "model-vinai_bertweet-large-simplification-memes_0.4threshold_5e-06learningRate:v4",
+    "distraction": "model-vinai_bertweet-large-distraction-memes_0.4threshold_5e-06learningRate:v0"
+  },
+  "threshold_nodes": {
+    "persuasion_or_not": 0.5,
+    "persuasion": 0.4,
+    "ethos": 0.4,
+    "pathos": 0.4,
+    "logos": 0.4,
+    "ad_hominem": 0.4,
+    "justification": 0.4,
+    "reasoning": 0.4,
+    "simplification": 0.4,
+    "distraction": 0.4
+  },
+  "transfer_learning": true,
+  "train_files": {
+    "train": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/train.json",
+    "validation": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/validation.json"
+  },
+  "top_k": 7,
+  "Validation score": {
+    "f1_hierarchical": 0.46972,
+    "precision_hierarchical": 0.34518,
+    "recall_hierarchical": 0.73483
+  }
+}

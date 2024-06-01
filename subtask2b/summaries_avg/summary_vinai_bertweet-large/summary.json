@@ -1,0 +1,14 @@
+{
+  "text_checkpoint": "vinai/bertweet-large",
+  "model_nodes": {
+    "persuasion_or_not": "best_model_vinai_bertweet-large-TEXTONLY-subtask2b-memes_1e-06learningRate:v1"
+  },
+  "train_path": "data/subtask2b/train.json",
+  "val_path": "data/subtask2b/val.json",
+  "test_path": "data/subtask2b/dev_unlabeled.json",
+  "val_results": {
+    "f1_macro": 0.6636986740119146,
+    "f1_micro": 0.7666666666666667,
+    "val_accuracy": 0.7666666666666667
+  }
+}

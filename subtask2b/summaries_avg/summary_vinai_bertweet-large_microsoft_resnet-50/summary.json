@@ -1,0 +1,15 @@
+{
+  "text_checkpoint": "vinai/bertweet-large",
+  "img_checkpoint": "microsoft/resnet-50",
+  "model_nodes": {
+    "persuasion_or_not": "best_model_vinai_bertweet-large-microsoft_resnet-50-subtask2b-memes_5e-06learningRate:v0"
+  },
+  "train_path": "data/subtask2b/train.json",
+  "val_path": "data/subtask2b/val.json",
+  "test_path": "data/subtask2b/dev_unlabeled.json",
+  "val_results": {
+    "f1_macro": 0.76,
+    "f1_micro": 0.7866666666666666,
+    "val_accuracy": 0.7866666666666666
+  }
+}

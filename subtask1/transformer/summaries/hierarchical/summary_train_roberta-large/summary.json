@@ -1,0 +1,38 @@
+{
+  "checkpoint": "roberta-large",
+  "model_nodes": {
+    "persuasion_or_not": "model-roberta-large-persuasion_or_not-memes_0.5threshold_5e-06learningRate:v0",
+    "persuasion": "model-roberta-large-persuasion-memes_0.3threshold_5e-06learningRate:v0",
+    "ethos": "model-roberta-large-ethos-memes_0.4threshold_5e-06learningRate:v0",
+    "pathos": "model-roberta-large-pathos-memes_0.4threshold_5e-06learningRate:v0",
+    "logos": "model-roberta-large-logos-memes_0.3threshold_5e-06learningRate:v0",
+    "ad_hominem": "model-roberta-large-ad_hominem-memes_0.3threshold_5e-06learningRate:v0",
+    "justification": "model-roberta-large-justification-memes_0.5threshold_5e-06learningRate:v0",
+    "reasoning": "model-roberta-large-reasoning-memes_0.4threshold_5e-06learningRate:v0",
+    "simplification": "model-roberta-large-simplification-memes_0.4threshold_5e-06learningRate:v0",
+    "distraction": "model-roberta-large-distraction-memes_0.3threshold_5e-05learningRate:v0"
+  },
+  "threshold_nodes": {
+    "persuasion_or_not": 0.5,
+    "persuasion": 0.3,
+    "ethos": 0.4,
+    "pathos": 0.4,
+    "logos": 0.3,
+    "ad_hominem": 0.3,
+    "justification": 0.5,
+    "reasoning": 0.4,
+    "simplification": 0.4,
+    "distraction": 0.3
+  },
+  "transfer_learning": false,
+  "train_files": {
+    "train": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/ptc/ptc_added_train.json",
+    "validation": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/validation.json"
+  },
+  "top_k": 5,
+  "Validation score": {
+    "f1_hierarchical": 0.65491,
+    "precision_hierarchical": 0.58044,
+    "recall_hierarchical": 0.75131
+  }
+}

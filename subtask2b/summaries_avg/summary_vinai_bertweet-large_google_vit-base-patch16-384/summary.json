@@ -1,0 +1,15 @@
+{
+  "text_checkpoint": "vinai/bertweet-large",
+  "img_checkpoint": "google/vit-base-patch16-384",
+  "model_nodes": {
+    "persuasion_or_not": "best_model_vinai_bertweet-large-google_vit-base-patch16-384-subtask2b-memes_3e-06learningRate:v3"
+  },
+  "train_path": "data/subtask2b/train.json",
+  "val_path": "data/subtask2b/val.json",
+  "test_path": "data/subtask2b/dev_unlabeled.json",
+  "val_results": {
+    "f1_macro": 0.8074454428754813,
+    "f1_micro": 0.8333333333333334,
+    "val_accuracy": 0.8333333333333334
+  }
+}

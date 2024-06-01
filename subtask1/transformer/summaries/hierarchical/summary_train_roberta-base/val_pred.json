@@ -1,0 +1,3473 @@
+[
+  {
+    "id": "63135",
+    "labels": [
+      "Doubt",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78590",
+    "labels": [
+      "Doubt"
+    ]
+  },
+  {
+    "id": "65834",
+    "labels": [
+      "Smears",
+      "Thought-terminating cliché",
+      "Causal Oversimplification"
+    ]
+  },
+  {
+    "id": "67394",
+    "labels": [
+      "Thought-terminating cliché",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "67709",
+    "labels": [
+      "Smears",
+      "Appeal to authority",
+      "Exaggeration/Minimisation"
+    ]
+  },
+  {
+    "id": "66205",
+    "labels": [
+      "Appeal to authority",
+      "Flag-waving",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "79029",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "78559",
+    "labels": [
+      "Smears",
+      "Thought-terminating cliché",
+      "Justification"
+    ]
+  },
+  {
+    "id": "77741",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63599",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "77552",
+    "labels": [
+      "Appeal to authority",
+      "Smears",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "71273",
+    "labels": [
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "65211",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "71723",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "70725",
+    "labels": [
+      "Exaggeration/Minimisation",
+      "Appeal to authority"
+    ]
+  },
+  {
+    "id": "65147",
+    "labels": [
+      "Loaded Language",
+      "Flag-waving",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76175",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "67706",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "70731",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70246",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70563",
+    "labels": [
+      "Slogans",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71563",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "77606",
+    "labels": [
+      "Appeal to authority",
+      "Repetition",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "69350",
+    "labels": [
+      "Smears",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "69839",
+    "labels": [
+      "Appeal to authority",
+      "Causal Oversimplification",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63401",
+    "labels": [
+      "Smears",
+      "Causal Oversimplification"
+    ]
+  },
+  {
+    "id": "69809",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "78435",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "77125",
+    "labels": [
+      "Glittering generalities (Virtue)",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "76607",
+    "labels": [
+      "Bandwagon",
+      "Slogans",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "66418",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language",
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "65656",
+    "labels": [
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "64769",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "66755",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Flag-waving",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "77801",
+    "labels": [
+      "Exaggeration/Minimisation",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68949",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "69851",
+    "labels": []
+  },
+  {
+    "id": "66028",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "69859",
+    "labels": [
+      "Repetition"
+    ]
+  },
+  {
+    "id": "71036",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "66193",
+    "labels": [
+      "Name calling/Labeling",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "76606",
+    "labels": [
+      "Slogans",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "67034",
+    "labels": [
+      "Thought-terminating cliché",
+      "Reductio ad hitlerum",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63998",
+    "labels": [
+      "Causal Oversimplification"
+    ]
+  },
+  {
+    "id": "65502",
+    "labels": []
+  },
+  {
+    "id": "71026",
+    "labels": [
+      "Ethos"
+    ]
+  },
+  {
+    "id": "64305",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "79660",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Justification",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65705",
+    "labels": [
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "78853",
+    "labels": []
+  },
+  {
+    "id": "77620",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "64878",
+    "labels": [
+      "Loaded Language",
+      "Black-and-white Fallacy/Dictatorship",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "79024",
+    "labels": [
+      "Causal Oversimplification",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "67991",
+    "labels": [
+      "Smears",
+      "Appeal to fear/prejudice",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "77840",
+    "labels": [
+      "Slogans",
+      "Thought-terminating cliché",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "75753",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "65191",
+    "labels": [
+      "Doubt"
+    ]
+  },
+  {
+    "id": "69200",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Thought-terminating cliché",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "65238",
+    "labels": [
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "66301",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "63851",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "76385",
+    "labels": []
+  },
+  {
+    "id": "64997",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "67325",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68180",
+    "labels": [
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65464",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "70720",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Smears",
+      "Appeal to authority"
+    ]
+  },
+  {
+    "id": "70948",
+    "labels": []
+  },
+  {
+    "id": "65756",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78714",
+    "labels": [
+      "Flag-waving",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "64375",
+    "labels": [
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "77874",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to authority",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "77437",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "67583",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Name calling/Labeling",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "76178",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71173",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "67283",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64639",
+    "labels": [
+      "Loaded Language",
+      "Slogans",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "66379",
+    "labels": [
+      "Causal Oversimplification",
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "77853",
+    "labels": []
+  },
+  {
+    "id": "77869",
+    "labels": [
+      "Flag-waving",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "76181",
+    "labels": [
+      "Name calling/Labeling",
+      "Flag-waving",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "69328",
+    "labels": [
+      "Slogans",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "65754",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "69612",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65317",
+    "labels": []
+  },
+  {
+    "id": "67924",
+    "labels": [
+      "Doubt"
+    ]
+  },
+  {
+    "id": "69800",
+    "labels": []
+  },
+  {
+    "id": "69182",
+    "labels": [
+      "Doubt"
+    ]
+  },
+  {
+    "id": "69744",
+    "labels": [
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "76609",
+    "labels": [
+      "Flag-waving",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "70011",
+    "labels": [
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64912",
+    "labels": [
+      "Thought-terminating cliché",
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70529",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "79054",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "71778",
+    "labels": [
+      "Appeal to authority",
+      "Causal Oversimplification",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "64030",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "78467",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "71556",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "66985",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "67773",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "69604",
+    "labels": [
+      "Exaggeration/Minimisation",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76648",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Slogans",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70968",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Smears"
+    ]
+  },
+  {
+    "id": "75707",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "71181",
+    "labels": [
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "77096",
+    "labels": [
+      "Flag-waving",
+      "Appeal to authority",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "64929",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "66473",
+    "labels": []
+  },
+  {
+    "id": "79467",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70127",
+    "labels": [
+      "Slogans",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "79347",
+    "labels": [
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "63427",
+    "labels": [
+      "Slogans",
+      "Flag-waving",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "68406",
+    "labels": [
+      "Exaggeration/Minimisation",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "68215",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Repetition",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "69273",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "67611",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "68178",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "76744",
+    "labels": []
+  },
+  {
+    "id": "65109",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64644",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "63790",
+    "labels": [
+      "Smears",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "65130",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "65048",
+    "labels": [
+      "Name calling/Labeling",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "76540",
+    "labels": [
+      "Slogans",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "77485",
+    "labels": [
+      "Whataboutism",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70730",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64519",
+    "labels": [
+      "Repetition",
+      "Thought-terminating cliché",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76404",
+    "labels": []
+  },
+  {
+    "id": "65543",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "66082",
+    "labels": []
+  },
+  {
+    "id": "67615",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "75770",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "77636",
+    "labels": [
+      "Flag-waving",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "66254",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "69817",
+    "labels": [
+      "Repetition",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "75588",
+    "labels": [
+      "Thought-terminating cliché",
+      "Appeal to authority",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "67677",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "69834",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "67712",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Smears"
+    ]
+  },
+  {
+    "id": "75851",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Exaggeration/Minimisation"
+    ]
+  },
+  {
+    "id": "63623",
+    "labels": [
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "65490",
+    "labels": [
+      "Causal Oversimplification",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "66092",
+    "labels": []
+  },
+  {
+    "id": "76241",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "66684",
+    "labels": [
+      "Smears",
+      "Appeal to fear/prejudice",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "67269",
+    "labels": []
+  },
+  {
+    "id": "69848",
+    "labels": [
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "67371",
+    "labels": [
+      "Loaded Language",
+      "Glittering generalities (Virtue)",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "69998",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78417",
+    "labels": [
+      "Justification",
+      "Glittering generalities (Virtue)",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70252",
+    "labels": []
+  },
+  {
+    "id": "78112",
+    "labels": [
+      "Appeal to authority",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "71680",
+    "labels": []
+  },
+  {
+    "id": "79529",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "75864",
+    "labels": [
+      "Loaded Language",
+      "Smears",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "67925",
+    "labels": [
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "64978",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "64543",
+    "labels": []
+  },
+  {
+    "id": "67370",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "67165",
+    "labels": []
+  },
+  {
+    "id": "76529",
+    "labels": [
+      "Name calling/Labeling",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "65604",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "66308",
+    "labels": [
+      "Thought-terminating cliché",
+      "Flag-waving",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "65284",
+    "labels": [
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "67587",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "78631",
+    "labels": [
+      "Causal Oversimplification",
+      "Loaded Language",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "71249",
+    "labels": [
+      "Flag-waving",
+      "Appeal to authority",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "65512",
+    "labels": [
+      "Flag-waving",
+      "Smears",
+      "Exaggeration/Minimisation"
+    ]
+  },
+  {
+    "id": "66987",
+    "labels": [
+      "Loaded Language",
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "70978",
+    "labels": [
+      "Appeal to authority",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68765",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "68154",
+    "labels": []
+  },
+  {
+    "id": "67703",
+    "labels": [
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "65644",
+    "labels": [
+      "Smears",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "65132",
+    "labels": []
+  },
+  {
+    "id": "68132",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "78109",
+    "labels": [
+      "Loaded Language",
+      "Flag-waving",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "69571",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "65162",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "76340",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to fear/prejudice",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "71419",
+    "labels": [
+      "Smears",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "71254",
+    "labels": [
+      "Slogans",
+      "Name calling/Labeling",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "77762",
+    "labels": [
+      "Appeal to authority"
+    ]
+  },
+  {
+    "id": "65240",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "79683",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Name calling/Labeling",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "66702",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "77373",
+    "labels": [
+      "Smears",
+      "Loaded Language",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "77596",
+    "labels": [
+      "Repetition"
+    ]
+  },
+  {
+    "id": "66109",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65435",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "70142",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68001",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "70217",
+    "labels": [
+      "Loaded Language",
+      "Appeal to authority",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "79098",
+    "labels": [
+      "Repetition"
+    ]
+  },
+  {
+    "id": "63993",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Exaggeration/Minimisation"
+    ]
+  },
+  {
+    "id": "78997",
+    "labels": [
+      "Flag-waving",
+      "Glittering generalities (Virtue)",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "69894",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "65160",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Repetition"
+    ]
+  },
+  {
+    "id": "63468",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "75780",
+    "labels": [
+      "Thought-terminating cliché",
+      "Name calling/Labeling",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "65280",
+    "labels": [
+      "Ad Hominem"
+    ]
+  },
+  {
+    "id": "64758",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to authority",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "76131",
+    "labels": [
+      "Loaded Language",
+      "Appeal to fear/prejudice",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76722",
+    "labels": [
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "71565",
+    "labels": [
+      "Appeal to authority",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63302",
+    "labels": [
+      "Thought-terminating cliché",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65262",
+    "labels": [
+      "Flag-waving",
+      "Name calling/Labeling",
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "68733",
+    "labels": [
+      "Name calling/Labeling",
+      "Appeal to fear/prejudice",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "68367",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63193",
+    "labels": [
+      "Glittering generalities (Virtue)",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65088",
+    "labels": [
+      "Appeal to authority",
+      "Name calling/Labeling",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "66604",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language",
+      "Appeal to authority"
+    ]
+  },
+  {
+    "id": "66465",
+    "labels": [
+      "Reductio ad hitlerum"
+    ]
+  },
+  {
+    "id": "63205",
+    "labels": [
+      "Slogans"
+    ]
+  },
+  {
+    "id": "76538",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63839",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "70340",
+    "labels": [
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "63725",
+    "labels": [
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "69762",
+    "labels": []
+  },
+  {
+    "id": "66337",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "66021",
+    "labels": [
+      "Loaded Language",
+      "Thought-terminating cliché",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70940",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "64842",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "63485",
+    "labels": [
+      "Causal Oversimplification",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71156",
+    "labels": [
+      "Causal Oversimplification",
+      "Loaded Language",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "67694",
+    "labels": [
+      "Flag-waving",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "70566",
+    "labels": [
+      "Ad Hominem",
+      "Appeal to fear/prejudice",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "68240",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78398",
+    "labels": []
+  },
+  {
+    "id": "63781",
+    "labels": []
+  },
+  {
+    "id": "66625",
+    "labels": [
+      "Appeal to authority",
+      "Black-and-white Fallacy/Dictatorship",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68790",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "76548",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Doubt"
+    ]
+  },
+  {
+    "id": "78594",
+    "labels": [
+      "Exaggeration/Minimisation",
+      "Flag-waving",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "68769",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "66984",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "69759",
+    "labels": [
+      "Thought-terminating cliché",
+      "Appeal to authority",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "66457",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "66754",
+    "labels": [
+      "Loaded Language",
+      "Whataboutism",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "77372",
+    "labels": [
+      "Thought-terminating cliché",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78664",
+    "labels": [
+      "Flag-waving",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "68953",
+    "labels": []
+  },
+  {
+    "id": "64845",
+    "labels": [
+      "Loaded Language",
+      "Whataboutism",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65060",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "68773",
+    "labels": [
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "64286",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63187",
+    "labels": [
+      "Causal Oversimplification",
+      "Glittering generalities (Virtue)",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "67042",
+    "labels": [
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "64940",
+    "labels": []
+  },
+  {
+    "id": "64694",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78037",
+    "labels": [
+      "Appeal to authority",
+      "Exaggeration/Minimisation",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "71186",
+    "labels": [
+      "Appeal to authority",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70789",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "63277",
+    "labels": [
+      "Appeal to authority",
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "69953",
+    "labels": []
+  },
+  {
+    "id": "79424",
+    "labels": [
+      "Appeal to authority",
+      "Black-and-white Fallacy/Dictatorship",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "68704",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "67028",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Appeal to authority",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "67196",
+    "labels": [
+      "Loaded Language",
+      "Slogans",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65595",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76759",
+    "labels": []
+  },
+  {
+    "id": "66014",
+    "labels": []
+  },
+  {
+    "id": "65141",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "68243",
+    "labels": [
+      "Appeal to authority",
+      "Appeal to fear/prejudice",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70768",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to authority",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "67049",
+    "labels": [
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "79846",
+    "labels": [
+      "Repetition"
+    ]
+  },
+  {
+    "id": "66228",
+    "labels": [
+      "Repetition"
+    ]
+  },
+  {
+    "id": "76729",
+    "labels": [
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70954",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "75843",
+    "labels": [
+      "Loaded Language",
+      "Flag-waving",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64620",
+    "labels": [
+      "Causal Oversimplification",
+      "Repetition"
+    ]
+  },
+  {
+    "id": "77593",
+    "labels": [
+      "Appeal to authority",
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "78212",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "76813",
+    "labels": [
+      "Slogans"
+    ]
+  },
+  {
+    "id": "68142",
+    "labels": [
+      "Slogans"
+    ]
+  },
+  {
+    "id": "68583",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68050",
+    "labels": [
+      "Thought-terminating cliché",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76557",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "66112",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64267",
+    "labels": [
+      "Name calling/Labeling",
+      "Thought-terminating cliché",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "67937",
+    "labels": [
+      "Flag-waving",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "71587",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "66175",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language",
+      "Repetition"
+    ]
+  },
+  {
+    "id": "71593",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71208",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "77484",
+    "labels": [
+      "Appeal to authority",
+      "Causal Oversimplification",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "63262",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "66271",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "69579",
+    "labels": [
+      "Smears",
+      "Slogans",
+      "Bandwagon"
+    ]
+  },
+  {
+    "id": "77673",
+    "labels": [
+      "Bandwagon",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65802",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Causal Oversimplification"
+    ]
+  },
+  {
+    "id": "79902",
+    "labels": [
+      "Exaggeration/Minimisation",
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71474",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "77088",
+    "labels": [
+      "Flag-waving",
+      "Glittering generalities (Virtue)",
+      "Smears"
+    ]
+  },
+  {
+    "id": "79480",
+    "labels": [
+      "Loaded Language",
+      "Smears",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "79027",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Whataboutism",
+      "Bandwagon"
+    ]
+  },
+  {
+    "id": "65107",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "66401",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Slogans",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64484",
+    "labels": [
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "65248",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "77489",
+    "labels": [
+      "Appeal to authority",
+      "Smears",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "66099",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "69347",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "67265",
+    "labels": [
+      "Name calling/Labeling",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "78844",
+    "labels": [
+      "Thought-terminating cliché",
+      "Smears"
+    ]
+  },
+  {
+    "id": "66917",
+    "labels": []
+  },
+  {
+    "id": "75847",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "77181",
+    "labels": []
+  },
+  {
+    "id": "64767",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "77430",
+    "labels": [
+      "Exaggeration/Minimisation",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "77507",
+    "labels": [
+      "Slogans"
+    ]
+  },
+  {
+    "id": "67234",
+    "labels": []
+  },
+  {
+    "id": "78062",
+    "labels": [
+      "Appeal to authority",
+      "Smears",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "77473",
+    "labels": [
+      "Doubt"
+    ]
+  },
+  {
+    "id": "63596",
+    "labels": []
+  },
+  {
+    "id": "79855",
+    "labels": []
+  },
+  {
+    "id": "63950",
+    "labels": [
+      "Loaded Language",
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "79469",
+    "labels": [
+      "Thought-terminating cliché",
+      "Appeal to fear/prejudice",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78886",
+    "labels": []
+  },
+  {
+    "id": "63969",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "65175",
+    "labels": []
+  },
+  {
+    "id": "63137",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "78049",
+    "labels": [
+      "Flag-waving",
+      "Smears",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "70813",
+    "labels": [
+      "Appeal to authority",
+      "Flag-waving",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "64627",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "79865",
+    "labels": [
+      "Flag-waving",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "65459",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "69459",
+    "labels": [
+      "Name calling/Labeling",
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64924",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "67853",
+    "labels": [
+      "Slogans",
+      "Black-and-white Fallacy/Dictatorship",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "67385",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "75922",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78666",
+    "labels": []
+  },
+  {
+    "id": "66784",
+    "labels": [
+      "Loaded Language",
+      "Whataboutism",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78706",
+    "labels": [
+      "Flag-waving",
+      "Glittering generalities (Virtue)",
+      "Exaggeration/Minimisation"
+    ]
+  },
+  {
+    "id": "64082",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70895",
+    "labels": [
+      "Exaggeration/Minimisation",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "76184",
+    "labels": [
+      "Repetition"
+    ]
+  },
+  {
+    "id": "71791",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63400",
+    "labels": [
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "64381",
+    "labels": [
+      "Causal Oversimplification",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65199",
+    "labels": [
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "63896",
+    "labels": [
+      "Loaded Language",
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "75609",
+    "labels": [
+      "Loaded Language",
+      "Doubt"
+    ]
+  },
+  {
+    "id": "65302",
+    "labels": [
+      "Flag-waving",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "66269",
+    "labels": [
+      "Slogans",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "66785",
+    "labels": [
+      "Smears",
+      "Causal Oversimplification",
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "65470",
+    "labels": [
+      "Loaded Language",
+      "Thought-terminating cliché",
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "78584",
+    "labels": [
+      "Appeal to authority",
+      "Thought-terminating cliché",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "66608",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "68016",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "65565",
+    "labels": []
+  },
+  {
+    "id": "79844",
+    "labels": [
+      "Repetition",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78842",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65696",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78031",
+    "labels": [
+      "Justification",
+      "Flag-waving",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68196",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "77644",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "65994",
+    "labels": [
+      "Thought-terminating cliché",
+      "Slogans",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "68193",
+    "labels": [
+      "Appeal to authority",
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "79527",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68083",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78855",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "63211",
+    "labels": [
+      "Bandwagon",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "79232",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Slogans",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "63624",
+    "labels": [
+      "Flag-waving",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78667",
+    "labels": [
+      "Flag-waving",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "67811",
+    "labels": [
+      "Doubt",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "64088",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "75602",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "79904",
+    "labels": [
+      "Flag-waving",
+      "Black-and-white Fallacy/Dictatorship",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "67828",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "69186",
+    "labels": [
+      "Causal Oversimplification",
+      "Smears"
+    ]
+  },
+  {
+    "id": "66569",
+    "labels": [
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "76252",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Slogans",
+      "Smears"
+    ]
+  },
+  {
+    "id": "63410",
+    "labels": [
+      "Causal Oversimplification",
+      "Smears",
+      "Bandwagon"
+    ]
+  },
+  {
+    "id": "69682",
+    "labels": [
+      "Name calling/Labeling",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68663",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "71386",
+    "labels": [
+      "Flag-waving",
+      "Appeal to authority",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "64248",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "76960",
+    "labels": []
+  },
+  {
+    "id": "77959",
+    "labels": [
+      "Justification",
+      "Name calling/Labeling",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "77904",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "77911",
+    "labels": [
+      "Slogans"
+    ]
+  },
+  {
+    "id": "69066",
+    "labels": []
+  },
+  {
+    "id": "67542",
+    "labels": [
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "65399",
+    "labels": [
+      "Loaded Language",
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "65329",
+    "labels": [
+      "Loaded Language",
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "77917",
+    "labels": [
+      "Slogans",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "64168",
+    "labels": [
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "75030",
+    "labels": [
+      "Thought-terminating cliché",
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78750",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "67126",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Slogans",
+      "Smears"
+    ]
+  },
+  {
+    "id": "67505",
+    "labels": [
+      "Smears",
+      "Slogans",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "71041",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Flag-waving",
+      "Bandwagon"
+    ]
+  },
+  {
+    "id": "67521",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Doubt"
+    ]
+  },
+  {
+    "id": "74995",
+    "labels": [
+      "Appeal to authority",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "79168",
+    "labels": [
+      "Causal Oversimplification"
+    ]
+  },
+  {
+    "id": "65344",
+    "labels": [
+      "Appeal to authority",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "65341",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "67097",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Smears",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "68480",
+    "labels": [
+      "Slogans",
+      "Flag-waving",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "79140",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78330",
+    "labels": [
+      "Loaded Language",
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "77898",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "65379",
+    "labels": [
+      "Repetition",
+      "Thought-terminating cliché",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "76943",
+    "labels": [
+      "Bandwagon",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "77971",
+    "labels": [
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "64179",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to authority",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "75025",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "70502",
+    "labels": [
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "71403",
+    "labels": [
+      "Name calling/Labeling",
+      "Loaded Language",
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "78337",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "67080",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Causal Oversimplification",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "74957",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to authority",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "67100",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "71075",
+    "labels": [
+      "Repetition",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "70458",
+    "labels": [
+      "Thought-terminating cliché",
+      "Appeal to fear/prejudice",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "75007",
+    "labels": [
+      "Appeal to authority",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "69092",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78743",
+    "labels": [
+      "Flag-waving",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "69102",
+    "labels": [
+      "Thought-terminating cliché",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "78761",
+    "labels": [
+      "Flag-waving",
+      "Slogans"
+    ]
+  },
+  {
+    "id": "78304",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "79785",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "76991",
+    "labels": [
+      "Loaded Language",
+      "Repetition",
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "77888",
+    "labels": [
+      "Loaded Language",
+      "Thought-terminating cliché",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78795",
+    "labels": []
+  },
+  {
+    "id": "68438",
+    "labels": [
+      "Causal Oversimplification",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "67115",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71306",
+    "labels": [
+      "Bandwagon",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78331",
+    "labels": [
+      "Loaded Language",
+      "Appeal to authority",
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "67127",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "78828",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Appeal to authority"
+    ]
+  },
+  {
+    "id": "71307",
+    "labels": [
+      "Appeal to authority",
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "74983",
+    "labels": [
+      "Flag-waving",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "70498",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "64182",
+    "labels": [
+      "Slogans",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71067",
+    "labels": [
+      "Glittering generalities (Virtue)",
+      "Flag-waving",
+      "Smears"
+    ]
+  },
+  {
+    "id": "67546",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "67108",
+    "labels": []
+  },
+  {
+    "id": "79798",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "71302",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65410",
+    "labels": [
+      "Smears",
+      "Glittering generalities (Virtue)",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78825",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "67132",
+    "labels": [
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "67067",
+    "labels": [
+      "Appeal to fear/prejudice"
+    ]
+  },
+  {
+    "id": "65321",
+    "labels": [
+      "Flag-waving",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68534",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "78334",
+    "labels": [
+      "Thought-terminating cliché",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76100",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "70472",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Appeal to authority"
+    ]
+  },
+  {
+    "id": "79822",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "65416",
+    "labels": [
+      "Flag-waving",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "71101",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Loaded Language",
+      "Black-and-white Fallacy/Dictatorship"
+    ]
+  },
+  {
+    "id": "65857",
+    "labels": [
+      "Repetition"
+    ]
+  },
+  {
+    "id": "76028",
+    "labels": [
+      "Exaggeration/Minimisation"
+    ]
+  },
+  {
+    "id": "67055",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71049",
+    "labels": [
+      "Appeal to authority",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "65404",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "67511",
+    "labels": [
+      "Loaded Language",
+      "Whataboutism",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "65337",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears",
+      "Glittering generalities (Virtue)"
+    ]
+  },
+  {
+    "id": "69074",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "67472",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "75038",
+    "labels": [
+      "Loaded Language",
+      "Appeal to authority",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76948",
+    "labels": [
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "77972",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "67520",
+    "labels": [
+      "Flag-waving",
+      "Exaggeration/Minimisation",
+      "Smears"
+    ]
+  },
+  {
+    "id": "76045",
+    "labels": [
+      "Loaded Language",
+      "Smears",
+      "Whataboutism"
+    ]
+  },
+  {
+    "id": "67540",
+    "labels": [
+      "Loaded Language",
+      "Doubt"
+    ]
+  },
+  {
+    "id": "69067",
+    "labels": []
+  },
+  {
+    "id": "65902",
+    "labels": [
+      "Smears",
+      "Bandwagon"
+    ]
+  },
+  {
+    "id": "78311",
+    "labels": [
+      "Appeal to authority"
+    ]
+  },
+  {
+    "id": "76907",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "71305",
+    "labels": [
+      "Loaded Language",
+      "Slogans",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "74949",
+    "labels": [
+      "Appeal to authority"
+    ]
+  },
+  {
+    "id": "70474",
+    "labels": [
+      "Reductio ad hitlerum",
+      "Appeal to authority",
+      "Bandwagon"
+    ]
+  },
+  {
+    "id": "67134",
+    "labels": [
+      "Thought-terminating cliché",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "71317",
+    "labels": [
+      "Name calling/Labeling",
+      "Smears"
+    ]
+  },
+  {
+    "id": "68526",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Smears"
+    ]
+  },
+  {
+    "id": "64181",
+    "labels": [
+      "Loaded Language",
+      "Smears",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "77882",
+    "labels": [
+      "Repetition",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "71395",
+    "labels": [
+      "Smears"
+    ]
+  },
+  {
+    "id": "74989",
+    "labels": [
+      "Flag-waving",
+      "Smears"
+    ]
+  },
+  {
+    "id": "65867",
+    "labels": [
+      "Appeal to fear/prejudice",
+      "Thought-terminating cliché",
+      "Exaggeration/Minimisation"
+    ]
+  },
+  {
+    "id": "70448",
+    "labels": [
+      "Appeal to authority",
+      "Loaded Language",
+      "Thought-terminating cliché"
+    ]
+  },
+  {
+    "id": "76072",
+    "labels": [
+      "Slogans",
+      "Flag-waving"
+    ]
+  },
+  {
+    "id": "76942",
+    "labels": [
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "77954",
+    "labels": [
+      "Flag-waving",
+      "Name calling/Labeling",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "65926",
+    "labels": []
+  },
+  {
+    "id": "77965",
+    "labels": []
+  },
+  {
+    "id": "79173",
+    "labels": [
+      "Slogans",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "71048",
+    "labels": [
+      "Repetition",
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "78774",
+    "labels": []
+  },
+  {
+    "id": "78299",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "67096",
+    "labels": [
+      "Black-and-white Fallacy/Dictatorship",
+      "Slogans",
+      "Loaded Language"
+    ]
+  },
+  {
+    "id": "68464",
+    "labels": [
+      "Loaded Language",
+      "Name calling/Labeling"
+    ]
+  },
+  {
+    "id": "71038",
+    "labels": [
+      "Appeal to authority"
+    ]
+  }
+]

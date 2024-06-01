@@ -1,0 +1,752 @@
+[
+  {
+    "id": "46916",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "35775",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "44838",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "41835",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "46179",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "33035",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "30259",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "23569",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "15206",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "41803",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45222",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "23263",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "28757",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "30193",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "44993",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "28534",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "56093",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "35044",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "42044",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "45095",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "35861",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "42887",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "24979",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "32543",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "56152",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "32102",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "43439",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "29244",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "30169",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "43042",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "31430",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "36093",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "12563",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "56046",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "35718",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "32038",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "26021",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "45056",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "45260",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "30377",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "31618",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "47220",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "56066",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "44910",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56048",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "44201",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "47069",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "45083",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "12727",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "44169",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "35535",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "29099",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "31249",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56016",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "41982",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "12884",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45618",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "46899",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56145",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "46902",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "46330",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "43681",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "31541",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "46097",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "31543",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45308",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "47087",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56082",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "48161",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "44685",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45306",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "35018",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "41410",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45630",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "29703",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "47897",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "28635",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "29705",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "42546",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "23679",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "33584",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "46172",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56149",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "41628",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "26007",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "30866",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "29754",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "15321",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "24896",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "56147",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "24166",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "49350",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "32260",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "31000",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "46951",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45161",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "24809",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "23490",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "46693",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45019",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56154",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56062",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56169",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56187",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "24054",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "33345",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "56113",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "34212",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "33322",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45674",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "43029",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45473",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "30865",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45592",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "44786",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "51094",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "46252",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "30529",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45320",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "25611",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "30791",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "33505",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "32306",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "35558",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "35893",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45704",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "42078",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "45454",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "56170",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "48801",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "36397",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "34847",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "27927",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "25475",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45653",
+    "origin": "val",
+    "label": "non_propagandistic"
+  },
+  {
+    "id": "46765",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "45234",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "34217",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "44443",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "15392",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "25657",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "44541",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "34421",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "32511",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "44663",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "44900",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "12635",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "12740",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "46086",
+    "origin": "val",
+    "label": "propagandistic"
+  },
+  {
+    "id": "30279",
+    "origin": "val",
+    "label": "propagandistic"
+  }
+]

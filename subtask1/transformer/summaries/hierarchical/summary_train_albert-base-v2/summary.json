@@ -1,0 +1,38 @@
+{
+  "checkpoint": "albert-base-v2",
+  "model_nodes": {
+    "persuasion_or_not": "model-albert-base-v2-persuasion_or_not-memes_0.5threshold_5e-05learningRate:v0",
+    "persuasion": "model-albert-base-v2-persuasion-memes_0.3threshold_5e-05learningRate:v4",
+    "ethos": "model-albert-base-v2-ethos-memes_0.4threshold_5e-06learningRate:v1",
+    "pathos": "model-albert-base-v2-pathos-memes_0.4threshold_5e-05learningRate:v3",
+    "logos": "model-albert-base-v2-logos-memes_0.3threshold_5e-05learningRate:v3",
+    "ad_hominem": "model-albert-base-v2-ad_hominem-memes_0.4threshold_5e-06learningRate:v1",
+    "justification": "model-albert-base-v2-justification-memes_0.5threshold_5e-06learningRate:v1",
+    "reasoning": "model-albert-base-v2-reasoning-memes_0.4threshold_5e-06learningRate:v1",
+    "simplification": "model-albert-base-v2-simplification-memes_0.3threshold_5e-06learningRate:v1",
+    "distraction": "model-albert-base-v2-distraction-memes_0.4threshold_0.0005learningRate:v1"
+  },
+  "threshold_nodes": {
+    "persuasion_or_not": 0.5,
+    "persuasion": 0.3,
+    "ethos": 0.4,
+    "pathos": 0.4,
+    "logos": 0.3,
+    "ad_hominem": 0.4,
+    "justification": 0.5,
+    "reasoning": 0.4,
+    "simplification": 0.3,
+    "distraction": 0.4
+  },
+  "transfer_learning": false,
+  "train_files": {
+    "train": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/ptc/ptc_added_train.json",
+    "validation": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/validation.json"
+  },
+  "top_k": 3,
+  "Validation score": {
+    "f1_hierarchical": 0.61758,
+    "precision_hierarchical": 0.54551,
+    "recall_hierarchical": 0.71161
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "checkpoint_multilabel": "microsoft/deberta-v3-base",
+  "checkpoint_hierarchical": "vinai/bertweet-large",
+  "training_set": "train",
+  "empty_labels": 1,
+  "best_model_multilabel": "model-microsoft_deberta-v3-base-multilabel-memes_0.4threshold_5e-05learningRate:v5",
+  "best_models_hierarchical": {
+    "persuasion_or_not": "model-vinai_bertweet-large-persuasion_or_not-memes_0.5threshold_5e-06learningRate:v3",
+    "persuasion": "model-vinai_bertweet-large-persuasion-memes_0.3threshold_5e-06learningRate:v2",
+    "ethos": "model-vinai_bertweet-large-ethos-memes_0.4threshold_5e-06learningRate:v2",
+    "pathos": "model-vinai_bertweet-large-pathos-memes_0.3threshold_5e-06learningRate:v2",
+    "logos": "model-vinai_bertweet-large-logos-memes_0.5threshold_5e-06learningRate:v2",
+    "ad_hominem": "model-vinai_bertweet-large-ad_hominem-memes_0.3threshold_5e-06learningRate:v2",
+    "justification": "model-vinai_bertweet-large-justification-memes_0.4threshold_5e-06learningRate:v2",
+    "reasoning": "model-vinai_bertweet-large-reasoning-memes_0.3threshold_5e-06learningRate:v2",
+    "simplification": "model-vinai_bertweet-large-simplification-memes_0.4threshold_5e-06learningRate:v2",
+    "distraction": "model-vinai_bertweet-large-distraction-memes_0.5threshold_0.0005learningRate:v2"
+  },
+  "meta_model": "RandomForestClassifier(max_features=0.9, min_samples_leaf=1e-07,\n                       n_estimators=500)",
+  "hierarchical_scores": {
+    "f1_hierarchical": 0.64869,
+    "precision_hierarchical": 0.69675,
+    "recall_hierarchical": 0.60683
+  }
+}

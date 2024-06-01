@@ -1,0 +1,36 @@
+{
+  "checkpoint_hierarchical": "microsoft/deberta-v3-large",
+  "checkpoint_hierarchical_2": "microsoft/deberta-v3-large",
+  "training_set": "train",
+  "empty_labels": 1,
+  "best_models_hierarchical": {
+    "persuasion_or_not": "model-vinai_bertweet-large-persuasion_or_not-memes_0.5threshold_5e-06learningRate:v3",
+    "persuasion": "model-vinai_bertweet-large-persuasion-memes_0.3threshold_5e-06learningRate:v2",
+    "ethos": "model-vinai_bertweet-large-ethos-memes_0.4threshold_5e-06learningRate:v2",
+    "pathos": "model-vinai_bertweet-large-pathos-memes_0.3threshold_5e-06learningRate:v2",
+    "logos": "model-vinai_bertweet-large-logos-memes_0.5threshold_5e-06learningRate:v2",
+    "ad_hominem": "model-vinai_bertweet-large-ad_hominem-memes_0.3threshold_5e-06learningRate:v2",
+    "justification": "model-vinai_bertweet-large-justification-memes_0.4threshold_5e-06learningRate:v2",
+    "reasoning": "model-vinai_bertweet-large-reasoning-memes_0.3threshold_5e-06learningRate:v2",
+    "simplification": "model-vinai_bertweet-large-simplification-memes_0.4threshold_5e-06learningRate:v2",
+    "distraction": "model-vinai_bertweet-large-distraction-memes_0.5threshold_0.0005learningRate:v2"
+  },
+  "best_models_hierarchical_2": {
+    "persuasion_or_not": "model-microsoft_deberta-v3-large-persuasion_or_not-memes_0.5threshold_5e-06learningRate:v0",
+    "persuasion": "model-microsoft_deberta-v3-large-persuasion-memes_0.3threshold_5e-06learningRate:v0",
+    "ethos": "model-microsoft_deberta-v3-large-ethos-memes_0.4threshold_5e-06learningRate:v0",
+    "pathos": "model-microsoft_deberta-v3-large-pathos-memes_0.5threshold_5e-06learningRate:v0",
+    "logos": "model-microsoft_deberta-v3-large-logos-memes_0.5threshold_5e-06learningRate:v0",
+    "ad_hominem": "model-microsoft_deberta-v3-large-ad_hominem-memes_0.4threshold_5e-06learningRate:v0",
+    "justification": "model-microsoft_deberta-v3-large-justification-memes_0.4threshold_5e-06learningRate:v0",
+    "reasoning": "model-microsoft_deberta-v3-large-reasoning-memes_0.4threshold_5e-06learningRate:v0",
+    "simplification": "model-microsoft_deberta-v3-large-simplification-memes_0.4threshold_5e-06learningRate:v0",
+    "distraction": "model-microsoft_deberta-v3-large-distraction-memes_0.4threshold_5e-05learningRate:v0"
+  },
+  "meta_model": "RandomForestClassifier(max_features=0.8, min_samples_leaf=1e-06,\n                       n_estimators=300)",
+  "hierarchical_scores": {
+    "f1_hierarchical": 0.65695,
+    "precision_hierarchical": 0.61125,
+    "recall_hierarchical": 0.71004
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "text_checkpoint": "best_model_vinai_bertweet-large-TEXTONLY-subtask2b-memes_1e-06learningRate:v1",
+  "img_checkpoint": "best_model_google_vit-base-patch16-224-in21k-subtask2b-memes-IMAGEONLY_3e-06learningRate:v0",
+  "best_meta_model": null,
+  "train_path": "data/subtask2b/train.json",
+  "val_path": "data/subtask2b/val.json",
+  "test_path": "data/subtask2b/dev_unlabeled.json",
+  "val_results": {
+    "val_f1_macro": 0.7612323491655969,
+    "val_f1_micro": 0.7933333333333333,
+    "val_accuracy": 0.7933333333333333
+  }
+}

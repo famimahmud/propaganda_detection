@@ -1,0 +1,15 @@
+{
+  "checkpoint": "microsoft/deberta-v3-base",
+  "best_mode": "model-microsoft_deberta-v3-base-multilabel-memes_0.4threshold_5e-05learningRate:v1",
+  "best_treshold": 0.4,
+  "train_files": {
+    "train": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/train.json",
+    "validation": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/validation.json"
+  },
+  "top_k": 10,
+  "Validation score": {
+    "f1_hierarchical": 0.65758,
+    "precision_hierarchical": 0.69549,
+    "recall_hierarchical": 0.6236
+  }
+}

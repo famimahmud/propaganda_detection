@@ -1,0 +1,38 @@
+{
+  "checkpoint": "bert-base-cased",
+  "model_nodes": {
+    "persuasion_or_not": "model-bert-base-cased-persuasion_or_not-memes_0.5threshold_5e-06learningRate:v13",
+    "persuasion": "model-bert-base-cased-persuasion-memes_0.3threshold_5e-05learningRate:v6",
+    "ethos": "model-bert-base-cased-ethos-memes_0.5threshold_5e-05learningRate:v15",
+    "pathos": "model-bert-base-cased-pathos-memes_0.3threshold_5e-05learningRate:v3",
+    "logos": "model-bert-base-cased-logos-memes_0.3threshold_5e-05learningRate:v3",
+    "ad_hominem": "model-bert-base-cased-ad_hominem-memes_0.3threshold_5e-05learningRate:v1",
+    "justification": "model-bert-base-cased-justification-memes_0.4threshold_5e-05learningRate:v5",
+    "reasoning": "model-bert-base-cased-justification-memes_0.4threshold_5e-05learningRate:v5",
+    "simplification": "model-bert-base-cased-simplification-memes_0.4threshold_5e-05learningRate:v2",
+    "distraction": "model-bert-base-cased-distraction-memes_0.3threshold_0.0005learningRate:v0"
+  },
+  "threshold_nodes": {
+    "persuasion_or_not": 0.5,
+    "persuasion": 0.3,
+    "ethos": 0.5,
+    "pathos": 0.3,
+    "logos": 0.3,
+    "ad_hominem": 0.3,
+    "justification": 0.4,
+    "reasoning": 0.4,
+    "simplification": 0.4,
+    "distraction": 0.3
+  },
+  "transfer_learning": false,
+  "train_files": {
+    "train": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/ptc/ptc_added_train.json",
+    "validation": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/validation.json"
+  },
+  "top_k": 3,
+  "Validation score": {
+    "f1_hierarchical": 0.58611,
+    "precision_hierarchical": 0.5286,
+    "recall_hierarchical": 0.65768
+    }
+}

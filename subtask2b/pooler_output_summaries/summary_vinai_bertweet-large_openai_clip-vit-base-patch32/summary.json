@@ -1,0 +1,15 @@
+{
+  "text_checkpoint": "vinai/bertweet-large",
+  "img_checkpoint": "openai/clip-vit-base-patch32",
+  "model_nodes": {
+    "persuasion_or_not": "best_model_vinai_bertweet-large-openai_clip-vit-base-patch32-subtask2b_1e-06learningRate:v0"
+  },
+  "train_path": "data/subtask2b/subtask2b_images/train/",
+  "val_path": "data/subtask2b/subtask2b_images/val/",
+  "test_path": "data/subtask2b/subtask2b_images/dev/",
+  "val_results": {
+    "f1_macro": 0.73,
+    "f1_micro": 0.76,
+    "val_accuracy": 0.76
+  }
+}

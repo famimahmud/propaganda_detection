@@ -1,0 +1,44 @@
+{
+  "model_nodes": {
+    "persuasion_or_not": "model-vinai_bertweet-large-persuasion_or_not-memes_0.5threshold_5e-06learningRate:v12",
+    "persuasion": "model-vinai_bertweet-large-persuasion-memes_0.3threshold_5e-06learningRate:v6",
+    "ethos": "model-vinai_bertweet-large-ethos-memes_0.4threshold_5e-06learningRate:v9",
+    "pathos": "model-vinai_bertweet-large-pathos-memes_0.3threshold_5e-06learningRate:v5",
+    "logos": "model-vinai_bertweet-large-logos-memes_0.5threshold_5e-06learningRate:v5",
+    "ad_hominem": "model-vinai_bertweet-large-ad_hominem-memes_0.3threshold_5e-06learningRate:v5",
+    "justification": "model-vinai_bertweet-large-justification-memes_0.4threshold_5e-06learningRate:v8",
+    "reasoning": "model-vinai_bertweet-large-reasoning-memes_0.3threshold_5e-06learningRate:v5",
+    "simplification": "model-vinai_bertweet-large-simplification-memes_0.4threshold_5e-06learningRate:v6",
+    "distraction": "model-vinai_bertweet-large-distraction-memes_0.5threshold_5e-06learningRate:v0"
+  },
+  "threshold_nodes": {
+    "persuasion_or_not": 0.5,
+    "persuasion": 0.3,
+    "ethos": 0.4,
+    "pathos": 0.3,
+    "logos": 0.5,
+    "ad_hominem": 0.3,
+    "justification": 0.4,
+    "reasoning": 0.3,
+    "simplification": 0.4,
+    "distraction": 0.5
+  },
+  "checkpoints": {
+    "persuasion_or_not": "vinai/bertweet-large",
+    "persuasion": "vinai/bertweet-large",
+    "ethos": "vinai/bertweet-large",
+    "pathos": "vinai/bertweet-large",
+    "logos": "vinai/bertweet-large",
+    "ad_hominem": "vinai/bertweet-large",
+    "justification": "vinai/bertweet-large",
+    "reasoning": "vinai/bertweet-large",
+    "simplification": "vinai/bertweet-large",
+    "distraction": "vinai/bertweet-large"
+  },
+  "top_k": 9,
+  "Validation score": {
+    "f1_hierarchical": 0.60738,
+    "precision_hierarchical": 0.5345,
+    "recall_hierarchical": 0.70328
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "checkpoint": "vinai/bertweet-base",
+  "best_model": "model-vinai_bertweet-base-multilabel-memes_0.3threshold_5e-05learningRate:v2",
+  "best_treshold": 0.3,
+  "best_learning_rate": null,
+  "empty_labels": 1,
+  "train_files": {
+    "train": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/train.json",
+    "validation": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/validation.json"
+  },
+  "top_k": 10,
+  "Validation score": {
+    "f1_hierarchical": 0.49359,
+    "precision_hierarchical": 0.55074,
+    "recall_hierarchical": 0.44719
+  }
+}

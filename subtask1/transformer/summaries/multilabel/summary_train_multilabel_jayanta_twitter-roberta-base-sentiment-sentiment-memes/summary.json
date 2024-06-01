@@ -1,0 +1,15 @@
+{
+  "checkpoint": "jayanta/twitter-roberta-base-sentiment-sentiment-memes",
+  "best_mode": "model-jayanta_twitter-roberta-base-sentiment-sentiment-memes-multilabel-memes_0.4threshold_5e-05learningRate:v2",
+  "best_treshold": 0.4,
+  "train_files": {
+    "train": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/train.json",
+    "validation": "/home/nlp-lab-ws23/nlp_praktikum/persuasion_technique_detection/data/subtask1/validation.json"
+  },
+  "top_k": 9,
+  "Validation score": {
+    "f1_hierarchical": 0.60759,
+    "precision_hierarchical": 0.70005,
+    "recall_hierarchical": 0.5367
+  }
+}
